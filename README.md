@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img alt="react" align="right" src="https://user-images.githubusercontent.com/42526032/172535854-a700912b-fb14-4b65-8aef-717d31e5e9ae.png">
+<!-- <img alt="react" align="right" src="https://user-images.githubusercontent.com/42526032/172535854-a700912b-fb14-4b65-8aef-717d31e5e9ae.png"> -->
 
 
 <h3 align="left">Connect with me:</h3>
