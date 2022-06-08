@@ -19,6 +19,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<img alt="react" align="right" src="https://user-images.githubusercontent.com/42526032/172535854-a700912b-fb14-4b65-8aef-717d31e5e9ae.png">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunkjojo" height="30" width="40" /></a>
@@ -37,10 +40,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkjojo&show_icons=true&locale=en&layout=compact" alt="arunkjojo" />
-
-
-<img alt="react" align="right" src="https://user-images.githubusercontent.com/42526032/172535854-a700912b-fb14-4b65-8aef-717d31e5e9ae.png">
-
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkjojo&show_icons=true&locale=en" alt="arunkjojo" /></p>
