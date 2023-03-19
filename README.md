@@ -26,15 +26,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunkjojo" height="30" width="40" /></a>
-<a href="https://dev.to/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkjojo" height="30" width="40" /></a>
-<a href="https://twitter.com/arunkbil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkbil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arun-jojo-3a02531aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-jojo-3a02531aa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19153971/arun-jojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19153971/arun-jojo" height="30" width="40" /></a>
-<a href="https://codesandbox.com/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkjojo" height="30" width="40" /></a>
-<a href="https://fb.com/arun.jojo.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.jojo.k" height="30" width="40" /></a>
-<a href="https://instagram.com/jo_arun.achu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jo_arun.achu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arunkjojo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arunkjojo" height="30" width="40" /></a>
+<a href="https://codepen.io/arunkjojo" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/codepen.svg" alt="arunkjojo" height="30" width="40" /></a>
+<a href="https://dev.to/arunkjojo" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/devto.svg" alt="arunkjojo" height="30" width="40" /></a>
+<a href="https://twitter.com/arunkbil" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/twitter.svg" alt="arunkbil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun-jojo-3a02531aa" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/linked-in.svg" alt="arun-jojo-3a02531aa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19153971/arun-jojo" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/stackoverflow.png" alt="19153971/arun-jojo" height="30" width="40" /></a>
+<a href="https://codesandbox.com/arunkjojo" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/codesandbox.png" alt="arunkjojo" height="30" width="40" /></a>
+<a href="https://fb.com/arun.jojo.k" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/facebook.svg" alt="arun.jojo.k" height="30" width="40" /></a>
+<a href="https://instagram.com/jo_arun.achu" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/instagram.svg" alt="jo_arun.achu" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arunkjojo" target="blank"><img align="center" src="https://github.com/arunkjojo/arunkjojo/blob/main/codechef.svg" alt="arunkjojo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
