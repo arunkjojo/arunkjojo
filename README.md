@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js with TS and ASP dotNet**
 
-- 👯 I’m looking to collaborate on [React Native Ecommerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
+- 👯 I’m looking to collaborate on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
