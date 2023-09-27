@@ -9,17 +9,18 @@
 
 - 🔭 I’m currently working on **Service Sector Application**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Vite+React+Typescript** with **Storybook and Lerna**
 
 - 👯 I’m looking to collaborate on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
-- 💬 Ask me about **React JS, React Native, Redux-ToolKit, Next.js, PHP, MySQL, ASP dotNet Core 6, Flutter**
+- 💬 Ask me about **React JS, React Native, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Storybook, PHP, and MySQL**
 
 - 📫 How to reach me **arunkjojo@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQ0ECYPpW9ZclslOGgbVm9_sR1QdpIgjWdwgMCZYnQTn7Bg1XFaCfavaCzwEJyFnq5T2H9tksaYc3Zb/pub](https://docs.google.com/document/d/e/2PACX-1vQ0ECYPpW9ZclslOGgbVm9_sR1QdpIgjWdwgMCZYnQTn7Bg1XFaCfavaCzwEJyFnq5T2H9tksaYc3Zb/pub)
+- 📄 Know about my experiences [https://app.eligiblee.com/arun-jojo](https://app.eligiblee.com/arun-jojo)
+  <!--(https://docs.google.com/document/d/e/2PACX-1vQ0ECYPpW9ZclslOGgbVm9_sR1QdpIgjWdwgMCZYnQTn7Bg1XFaCfavaCzwEJyFnq5T2H9tksaYc3Zb/pub)-->
 
 <h3 align="left">Connect with me:</h3>
 
