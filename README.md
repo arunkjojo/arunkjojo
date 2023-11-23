@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Vite+React+Typescript** with **Storybook and Lerna**
 
-- 👯 I’m looking to collaborate on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
+- 👯 I’m looking to upskill on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
-- 💬 Ask me about **React JS, React Native, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Storybook, PHP, and MySQL**
+- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, and MySQL**
 
 - 📫 How to reach me **arunkjojo@gmail.com**
 
