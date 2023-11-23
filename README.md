@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkjojo" alt="arunkjojo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arunkbil" target="blank"><img src="https://img.shields.io/twitter/follow/arunkbil?logo=twitter&style=for-the-badge" alt="arunkbil" /></a> </p>
+<p style="display: flex; justify-content: space-between; align-items: center;"> 
+  <a href="https://twitter.com/arunkbil" target="blank"><img src="https://img.shields.io/twitter/follow/arunkbil?logo=twitter&style=for-the-badge" alt="arunkbil" /></a>  
+  <a href="https://www.linkedin.com/in/arunkjojo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="arunkjojo" /></a> 
+</p>
 
 - 🔭 I’m currently working on **Service Sector Application**
 
