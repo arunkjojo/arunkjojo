@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Jojo</h1>
-<h3 align="center">A passionate React developer from India</h3>
+<h3 align="center">A passionate React developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkjojo&label=Profile%20views&color=0e75b6&style=flat" alt="arunkjojo" /> </p>
 
@@ -27,7 +27,38 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://codepen.io/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunkjojo" height="30" width="40" /></a> <a href="https://dev.to/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkjojo" height="30" width="40" /></a> <a href="https://twitter.com/arunkbil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkbil" height="30" width="40" /></a> <a href="https://linkedin.com/in/arun-jojo-3a02531aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-jojo-3a02531aa" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/arun-jojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun-jojo" height="30" width="40" /></a> <a href="https://codesandbox.com/arunkjojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkjojo" height="30" width="40" /></a> <a href="https://fb.com/arun.jojo.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.jojo.k" height="30" width="40" /></a> <a href="https://instagram.com/a_jo.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_jo.in" height="30" width="40" /></a> <a href="https://www.youtube.com/c/arun jojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arun jojo" height="30" width="40" /></a> <a href="https://www.codechef.com/users/arunkjojo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arunkjojo" height="30" width="40" /></a> </p>
+<p align="left"> 
+  <a href="https://codepen.io/arunkjojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arunkjojo" height="30" width="40" />
+  </a> 
+  <a href="https://dev.to/arunkjojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkjojo" height="30" width="40" />
+  </a> 
+  <a href="https://twitter.com/arunkbil" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkbil" height="30" width="40" />
+  </a> 
+  <a href="https://linkedin.com/in/arunkjojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunkjojo" height="30" width="40" />
+  </a> 
+  <a href="https://stackoverflow.com/users/arun-jojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun-jojo" height="30" width="40" />
+  </a> 
+  <a href="https://codesandbox.com/arunkjojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkjojo" height="30" width="40" />
+  </a> 
+  <a href="https://fb.com/arun.jojo.k" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.jojo.k" height="30" width="40" />
+  </a> 
+  <a href="https://instagram.com/a_jo.in" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_jo.in" height="30" width="40" />
+  </a> 
+  <a href="https://www.youtube.com/c/arun jojo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arun jojo" height="30" width="40" />
+  </a> 
+  <a href="https://www.codechef.com/users/arunkjojo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arunkjojo" height="30" width="40" />
+  </a> 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
