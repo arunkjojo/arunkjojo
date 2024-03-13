@@ -12,15 +12,15 @@
 
 - 🔭 I’m currently working on **Service Sector Application**
 
-- 🌱 I’m currently learning **Vite+React+Typescript** with **Storybook and Lerna**
+- 🌱 I’m currently learning **Vite+React+Typescript** with **ASP.Net Web API**
 
 - 👯 I’m looking to upskill on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
-- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, and MySQL**
+- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, MySQL, and ASP.NET Web API**
 
-- 📫 How to reach me **arunkjojo@gmail.com**
+- 📫 How to reach me **arunjojokalariparambil@gmail.com**
 
 - 📄 Know about my experiences [https://app.eligiblee.com/arun-jojo](https://app.eligiblee.com/arun-jojo)
   <!--(https://docs.google.com/document/d/e/2PACX-1vQ0ECYPpW9ZclslOGgbVm9_sR1QdpIgjWdwgMCZYnQTn7Bg1XFaCfavaCzwEJyFnq5T2H9tksaYc3Zb/pub)-->
@@ -46,13 +46,18 @@
   <a href="https://codesandbox.com/arunkjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkjojo" height="30" width="40" />
   </a> 
+  
+  <a href="https://linktr.ee/arunkjojo" target="blank">
+    <img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" alt="arunkjojo" height="30" width="40" />
+  </a> 
+  
   <a href="https://fb.com/arun.jojo.k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.jojo.k" height="30" width="40" />
   </a> 
-  <a href="https://instagram.com/a_jo.in" target="blank">
+  <a href="https://instagram.com/arun_kjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_jo.in" height="30" width="40" />
   </a> 
-  <a href="https://www.youtube.com/c/arun jojo" target="blank">
+  <a href="https://www.youtube.com/@arun_kjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arun jojo" height="30" width="40" />
   </a> 
   <a href="https://www.codechef.com/users/arunkjojo" target="blank">
@@ -65,7 +70,7 @@
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
-    rel="noreferrer"
+    rel="no-referrer"
   >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -126,14 +131,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-      alt="nestjs"
       width="40"
       height="40"
     />
@@ -278,6 +275,23 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.scholarhat.com/images/technologies/webapi.png"
+      alt="Web API"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.scholarhat.com/images/technologies/swagger.png"
+      alt="Swagger"
       width="40"
       height="40"
     />
