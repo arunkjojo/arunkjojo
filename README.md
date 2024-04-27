@@ -10,19 +10,19 @@
   <a href="https://www.linkedin.com/in/arunkjojo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="arunkjojo" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Service Sector Application**
+- 🔭 I’m currently working on **Service Sector Application **
 
-- 🌱 I’m currently learning **Vite+React+Typescript** with **ASP.Net Web API**
+- 🌱 I’m currently learning **NextJS, and React Native** with **Typescript**
 
-- 👯 I’m looking to upskill on [React Native E-commerce App](https://github.com/arunkjojo/AJOinEcommerceApp)
+- 👯 I’m looking to upskill on **React Native, Nextjs, and TDD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
-- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, MySQL, and ASP.NET Web API**
+- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, MySQL, PostgreSQL, and ASP.NET Web API**
 
-- 📫 How to reach me **arunjojokalariparambil@gmail.com**
+- 📫 How to reach me **arunkjoj@gmail.com**
 
-- 📄 Know about my experiences [https://app.eligiblee.com/arun-jojo](https://app.eligiblee.com/arun-jojo)
+- 📄 Know about me [https://linktr.ee/arunkjojo](https://linktr.ee/arunkjojo)
   <!--(https://docs.google.com/document/d/e/2PACX-1vQ0ECYPpW9ZclslOGgbVm9_sR1QdpIgjWdwgMCZYnQTn7Bg1XFaCfavaCzwEJyFnq5T2H9tksaYc3Zb/pub)-->
 
 <h3 align="left">Connect with me:</h3>
