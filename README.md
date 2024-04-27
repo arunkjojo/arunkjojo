@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/arunkjojo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="arunkjojo" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Service Sector Application **
+- 🔭 I’m currently working on **Service Sector Application**
 
 - 🌱 I’m currently learning **NextJS, and React Native** with **Typescript**
 
