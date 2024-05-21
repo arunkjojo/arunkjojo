@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/arunkjojo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="arunkjojo" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Service Sector Application**
+- 🔭 I’m currently working on **React Native Messaging Application**
 
-- 🌱 I’m currently learning **NextJS, and React Native** with **Typescript**
+- 🌱 I’m currently learning **React Native, Nextjs** with **Typescript**
 
-- 👯 I’m looking to upskill on **React Native, Nextjs, and TDD**
+- 👯 I’m looking to upskill on **Storybook, and TDD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
