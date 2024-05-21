@@ -103,6 +103,14 @@
       height="40"
     />
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
@@ -115,14 +123,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
       alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
       width="40"
       height="40"
     />
@@ -199,14 +199,14 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="sass"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <!-- <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -280,7 +280,7 @@
     />
   </a>
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
     <img
       src="https://www.scholarhat.com/images/technologies/webapi.png"
       alt="Web API"
@@ -288,7 +288,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://swagger.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.scholarhat.com/images/technologies/swagger.png"
       alt="Swagger"
