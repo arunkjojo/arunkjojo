@@ -10,15 +10,15 @@
   <a href="https://www.linkedin.com/in/arunkjojo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="arunkjojo" /></a> 
 </p>
 
-- 🔭 I’m currently working on **React Native Messaging Application**
+- 🔭 I’m currently working on **React Applications**
 
-- 🌱 I’m currently learning **React Native, Nextjs** with **Typescript**
+- 🌱 I’m currently learning **ASP.NET Core API** and **SQL-NoSQL databases** (MySQL, PostgreSQL, MSSQL, MongoDB, Firestore)
 
-- 👯 I’m looking to upskill on **Storybook, and TDD**
+- 👯 I’m looking to upskill on **Mono-Repo** and **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arunkjojo](https://github.com/arunkjojo)
 
-- 💬 Ask me about **React JS, React Native, Expo, Redux-ToolKit, Typescript, NodeJs, ExpressJS, MongoDB, Vite, Next.js, Jest, RTL, Storybook, PHP, MySQL, PostgreSQL, and ASP.NET Web API**
+- 💬 Ask me about **React JS, React Native, Expo, Typescript, NodeJS, ExpressJS, MongoDB, Vite, Next.js, Vitest, Core PHP, MySQL, PostgreSQL, and ASP.NET Core Web API**
 
 - 📫 How to reach me **arunkjoj@gmail.com**
 
