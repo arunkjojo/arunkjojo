@@ -34,9 +34,6 @@
   <a href="https://dev.to/arunkjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunkjojo" height="30" width="40" />
   </a> 
-  <a href="https://twitter.com/arunkbil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunkbil" height="30" width="40" />
-  </a> 
   <a href="https://linkedin.com/in/arunkjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunkjojo" height="30" width="40" />
   </a> 
@@ -46,19 +43,8 @@
   <a href="https://codesandbox.com/arunkjojo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arunkjojo" height="30" width="40" />
   </a> 
-  
   <a href="https://linktr.ee/arunkjojo" target="blank">
     <img align="center" src="https://logowik.com/content/uploads/images/linktree-new-2022-favicon8503.logowik.com.webp" alt="arunkjojo" height="30" width="40" />
-  </a> 
-  
-  <a href="https://fb.com/arun.jojo.k" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun.jojo.k" height="30" width="40" />
-  </a> 
-  <a href="https://instagram.com/arun_kjojo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_jo.in" height="30" width="40" />
-  </a> 
-  <a href="https://www.youtube.com/@arun_kjojo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arun jojo" height="30" width="40" />
   </a> 
   <a href="https://www.codechef.com/users/arunkjojo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arunkjojo" height="30" width="40" />
@@ -175,14 +161,6 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-  </a> -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -199,14 +177,6 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a> -->
   <!-- <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -247,14 +217,6 @@
       height="40"
     />
   </a>
-  <!-- <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
-      alt="gulp"
-      width="40"
-      height="40"
-    />
-  </a> -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
